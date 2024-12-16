@@ -62,12 +62,6 @@ Follow these steps to set up the project on your local machine:
 2. The application will respond using OpenAI's API for text or voice responses.
 3. Enjoy real-time communication enhanced with AI capabilities.
 
-## Project Structure
-
-- **src/**: Contains the main application code.
-- **public/**: Static files and assets.
-- **.env**: Environment variables (e.g., OpenAI API key).
-
 
 ## Acknowledgments
 
